@@ -1,0 +1,8 @@
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Entities\bin\Debug\netcoreapp3.0\Library.Entities.deps.json
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Entities\bin\Debug\netcoreapp3.0\Library.Entities.dll
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Entities\bin\Debug\netcoreapp3.0\Library.Entities.pdb
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Entities\obj\Debug\netcoreapp3.0\Library.Entities.csprojAssemblyReference.cache
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Entities\obj\Debug\netcoreapp3.0\Library.Entities.AssemblyInfoInputs.cache
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Entities\obj\Debug\netcoreapp3.0\Library.Entities.AssemblyInfo.cs
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Entities\obj\Debug\netcoreapp3.0\Library.Entities.dll
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Entities\obj\Debug\netcoreapp3.0\Library.Entities.pdb

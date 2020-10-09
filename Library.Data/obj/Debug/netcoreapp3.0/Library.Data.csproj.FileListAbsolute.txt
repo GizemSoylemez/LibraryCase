@@ -1,0 +1,11 @@
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Data\bin\Debug\netcoreapp3.0\Library.Data.deps.json
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Data\bin\Debug\netcoreapp3.0\Library.Data.dll
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Data\obj\Debug\netcoreapp3.0\Library.Data.csprojAssemblyReference.cache
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Data\obj\Debug\netcoreapp3.0\Library.Data.AssemblyInfoInputs.cache
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Data\obj\Debug\netcoreapp3.0\Library.Data.AssemblyInfo.cs
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Data\bin\Debug\netcoreapp3.0\Library.Entities.dll
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Data\bin\Debug\netcoreapp3.0\Library.Data.pdb
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Data\bin\Debug\netcoreapp3.0\Library.Entities.pdb
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Data\obj\Debug\netcoreapp3.0\Library.Data.csproj.CopyComplete
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Data\obj\Debug\netcoreapp3.0\Library.Data.dll
+C:\Users\gizem\Desktop\Cennet Gizem Söylemez\Library.Entities\Library.Data\obj\Debug\netcoreapp3.0\Library.Data.pdb
